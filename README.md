@@ -1,0 +1,2 @@
+# MyGame
+Just small game
